@@ -1,6 +1,6 @@
 ## Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></a>
 
-I´m Raphael, system administrator in germany bavaria
+I´m Galih Previand Wicaksono, College Student in Politeknik Negeri Malang
 
 ## 🚀💻 Technologies & Tools
 
@@ -16,11 +16,8 @@ I´m Raphael, system administrator in germany bavaria
   ![MariaDB](https://img.shields.io/badge/MariaDB-black?style=flat-square&logo=mariadb)
 
   ![Android](https://img.shields.io/badge/Android-05150C?style=flat-square&logo=android)
-  ![MaterialUI](https://img.shields.io/badge/-MatrialUI-0081CB?style=flat-square&logo=material-UI)
   ![Firebase](https://img.shields.io/badge/Firebase-black?style=flat-square&logo=firebase)
   ![Java](https://img.shields.io/badge/Java-orange?style=flat-square&logo=java)
-  ![Kotlin]( https://img.shields.io/badge/Kotlin-black?style=flat-square&logo=kotlin)
-  ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
   ![Google Chrome](https://img.shields.io/badge/Chrome-black?style=flat-square&logo=google-chrome)
   ![Discord](https://img.shields.io/badge/Discord-black?style=flat-square&logo=discord)
   ![Cisco](https://img.shields.io/badge/Cisco-black?style=flat-square&logo=cisco)
@@ -31,6 +28,6 @@ I´m Raphael, system administrator in germany bavaria
 <img align="left" src="https://github-readme-stats.vercel.app/api?username=GalihPrev&show_icons=true&count_private=true&theme=gruvbox" />
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GalihPrev&layout=compact&count_private=true&theme=gruvbox" />
 <img src="https://github-readme-stats.vercel.app/api/wakatime?username=GalihPrev&theme=gruvbox" />  
-<a href="https://github.com/rafi0101/logstash-pipelines" target="_blank"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=GalihPrev&repo=logstash-pipelines&theme=gruvbox""></a>  
+<img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=GalihPrev&repo=logstash-pipelines&theme=gruvbox""></a>  
 
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=GalihPrev.GalihPrev)
