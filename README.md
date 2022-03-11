@@ -28,6 +28,5 @@ I´m Galih Previand Wicaksono, College Student in Politeknik Negeri Malang
 <img align="left" src="https://github-readme-stats.vercel.app/api?username=GalihPrev&show_icons=true&count_private=true&theme=gruvbox" />
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GalihPrev&layout=compact&count_private=true&theme=gruvbox" />
 <img src="https://github-readme-stats.vercel.app/api/wakatime?username=GalihPrev&theme=gruvbox" />  
-<img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=GalihPrev&repo=logstash-pipelines&theme=gruvbox""></a>  
 
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=GalihPrev.GalihPrev)
